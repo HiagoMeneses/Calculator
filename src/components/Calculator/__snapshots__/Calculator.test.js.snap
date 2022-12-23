@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders buttons calculator 1`] = `
+<button
+  class="white"
+  style="visibility: visible;"
+  value="AC"
+>
+  AC
+</button>
+`;
